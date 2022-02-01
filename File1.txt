@@ -1,4 +1,4 @@
-Hello world!
+Hello world!!!
 
 Change: added for login feature.
 
@@ -7,4 +7,6 @@ Change: to fix bug1.
 Change: by team mate for WI2.
 
 Change: for CR1 to test 3-way merging.
+
+Change: by team for WI3 to test rebase.
 
