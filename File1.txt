@@ -1,4 +1,6 @@
 Hello world!
 Change added for login feature.
 
-Change to fix bug1
+Change to fix bug1.
+
+Change for CR1 to test 3-way merging.
