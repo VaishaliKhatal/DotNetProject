@@ -1,15 +1,18 @@
 Hello world!!!
 
-Change: added for login feature.
+Change:- added for login feature.
 
-Change: to fix bug1.
+Change:- to fix bug1.
 
-Change: by team mate for WI2.
+Change:- by team mate for WI2.
 
-Change: for CR1 to test 3-way merging.
+Change:- for CR1 to test 3-way merging.
 
-Change: by team for WI3 to test rebase.
+Change:- by team for WI3 to test rebase.
 
-Change: for bug2.
+Change:- for bug2.
+
+Change:- by team mate for CR2 on remote master rebase with conflict.
+
 
 
