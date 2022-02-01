@@ -1,4 +1,7 @@
 Hello world!
-Change added for login feature.
 
-Change to fix bug1
+Change: added for login feature.
+
+Change: to fix bug1
+
+Change: by team mate for WI2
